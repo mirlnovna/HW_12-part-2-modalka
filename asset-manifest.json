@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/HW_12-part-2-modalka/static/css/main.00416401.css",
+    "main.js": "/HW_12-part-2-modalka/static/js/main.97b88647.js",
+    "static/media/summaryImg.jpg": "/HW_12-part-2-modalka/static/media/summaryImg.0b28892d5515857671bc.jpg",
+    "static/media/basket-icon.svg": "/HW_12-part-2-modalka/static/media/basket-icon.2fef32082e9401484e897e109e396903.svg",
+    "index.html": "/HW_12-part-2-modalka/index.html",
+    "static/media/plus.svg": "/HW_12-part-2-modalka/static/media/plus.f6449d6005345c09378ddf02e862b973.svg",
+    "main.00416401.css.map": "/HW_12-part-2-modalka/static/css/main.00416401.css.map",
+    "main.97b88647.js.map": "/HW_12-part-2-modalka/static/js/main.97b88647.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00416401.css",
+    "static/js/main.97b88647.js"
+  ]
+}
